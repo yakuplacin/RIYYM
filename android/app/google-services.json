@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390992390831",
+    "project_id": "riyym-50ddb",
+    "storage_bucket": "riyym-50ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390992390831:android:c1d4db7c50b8fd6c9cc25a",
+        "android_client_info": {
+          "package_name": "com.example.riyym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390992390831-9napiphldda5hdfgn534sabefvhciab0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZWSdnfaoTJbCoR6tBImPEl75tsXZW0ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390992390831-9napiphldda5hdfgn534sabefvhciab0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
